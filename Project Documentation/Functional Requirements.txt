@@ -1,0 +1,19 @@
+As an unauthenticated user:
+- I can look up all breweries.
+- I can look up all breweries.
+
+As an authenticated user:
+- I can look up a brewery by ID.
+- I can look up a beer by ID.
+- I can look up a a brewery by City.
+- I can look up a brewery by State (State Abbreviation).
+- I can look up a brewer by zip code.
+- I can look up a beer by Brewery ID.
+
+As an Admin:
+- I can create a brewery.
+- I can create a beer.
+- I can update a brewery.
+- I can update a beer.
+- I can delete a brewery.
+- I can delete a beer.
